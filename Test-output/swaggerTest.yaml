@@ -1,0 +1,22 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Fusion-Test-API",
+    "description" : "prod server",
+    "termsOfService" : "https://fusion.com/terms-of-use",
+    "contact" : {
+      "name" : "asish phuyal",
+      "url" : "fusion.com",
+      "email" : "ashish.phuyal@n-able.com"
+    },
+    "license" : {
+      "name" : "fusion license",
+      "url" : "http://fusion.foo.com"
+    },
+    "version" : "1.0.0"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/ASHISHPHUYAL/fusion_test_ashish/1.0.0"
+  } ],
+  "components" : { }
+}
